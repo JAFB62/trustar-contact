@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="64" viewBox="0 0 250 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">trustAR</title>
+  <g fill="#9ED8BA">
+    <path d="M8 46.5h12.5V30L8 34.5v12Z" />
+    <path d="M25.75 46.5h12.5V19.75l-12.5 5.5v21.25Z" />
+    <path d="M43.5 46.5H56V8.5L43.5 14v32.5Z" />
+  </g>
+  <text x="70" y="45" fill="#F7F4ED" font-family="Manrope, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-2">trust<tspan fill="#9ED8BA">AR</tspan></text>
+</svg>
