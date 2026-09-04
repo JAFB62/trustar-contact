@@ -6,7 +6,6 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:'/apps/trustar/trustar-contact',
   plugins: [
     vue(),
     vueDevTools(),
